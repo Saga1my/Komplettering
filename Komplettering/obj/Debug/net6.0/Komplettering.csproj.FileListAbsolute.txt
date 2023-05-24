@@ -1,0 +1,15 @@
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\Komplettering.csproj.AssemblyReference.cache
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\Komplettering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\Komplettering.AssemblyInfoInputs.cache
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\Komplettering.AssemblyInfo.cs
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\Komplettering.csproj.CoreCompileInputs.cache
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\bin\Debug\net6.0\Komplettering.exe
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\bin\Debug\net6.0\Komplettering.deps.json
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\bin\Debug\net6.0\Komplettering.runtimeconfig.json
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\bin\Debug\net6.0\Komplettering.dll
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\bin\Debug\net6.0\Komplettering.pdb
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\Komplettering.dll
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\refint\Komplettering.dll
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\Komplettering.pdb
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\Komplettering.genruntimeconfig.cache
+C:\Users\saga.palm1\Documents\Programmering\Komplettering\Komplettering\obj\Debug\net6.0\ref\Komplettering.dll
